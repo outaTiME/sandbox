@@ -1,0 +1,24 @@
+{
+  "name": "sandbox",
+  "version": "0.1.0",
+  "description": "Sandbox project used for test purposes.",
+  "homepage": "http://sandbox.outa.im",
+  "author": {
+    "name": "outaTiME",
+    "url": "http://outa.im/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/outaTiME/sandbox.git"
+  },
+  "bugs": {
+    "url": "http://github.com/outaTiME/sandbox/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "connect": "~2.8.5"
+  },
+  "private": true
+}
